@@ -16,3 +16,6 @@ RISC-V Uniqueness Check
 User: VLSI
 Host: Varshith
 UniqueID: 0x88d85ad89f8d9226
+
+### Note
+Screenshots for task -1 have been added
